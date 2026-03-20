@@ -1,0 +1,5 @@
+{
+  "name": "SQL Compare Agent",
+  "description": "An interactive agent to compare SQL queries, analyze filters, and estimate record counts using AI.",
+  "requestFramePermissions": []
+}
